@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Icons/view-refresh.png</file>
+    <file>Icons/add_people.png</file>
+    <file>Icons/dialog-close.png</file>
+    <file>Icons/application-exit.png</file>
+    <file>Icons/computer.png</file>
+    <file>Icons/dialog-ok.png</file>
+    <file>Icons/edit-delete.png</file>
+    <file>Icons/edit-find.png</file>
+    <file>Icons/help-about.png</file>
+    <file>Icons/EN.png</file>
+    <file>Icons/format-text-color.png</file>
+    <file>Icons/FR.png</file>
+    <file>Icons/kiesse.png</file>
+    <file>Icons/player1.png</file>
+    <file>Icons/player2.png</file>
+    <file>Icons/players.png</file>
+    <file>Icons/qt.png</file>
+    <file>Icons/size_people.png</file>
+    <file>Icons/view-grid.png</file>
+  </qresource>
+</RCC>
